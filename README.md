@@ -6,9 +6,9 @@
 
 # Fabian Mendez
 
-### Software Engineering · Systems Engineering · Network Engineering
+### Systems Engineer · Software · Networks · Infrastructure
 
-**Engineering software. Building infrastructure. Connecting systems.**
+**Engineering software. Architecting systems. Building infrastructure.**
 
 [![GitHub](https://img.shields.io/badge/GitHub-FabianMendez3-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FabianMendez3)
 [![Profile
