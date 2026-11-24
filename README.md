@@ -98,10 +98,18 @@ Driven by engineering excellence, technical innovation, and scalable architectur
 
 **Networking & tools**
 
+**Networking & Tools**
+
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-0B1F33?style=flat-square&logo=cloudflare&logoColor=F38020)
 ![WireGuard](https://img.shields.io/badge/WireGuard-0B1F33?style=flat-square&logo=wireguard&logoColor=88171A)
+![BGP](https://img.shields.io/badge/BGP-0B1F33?style=flat-square&logo=linux&logoColor=FCC624)
+![IPv4%20%2F%20IPv6](https://img.shields.io/badge/IPv4%20%2F%20IPv6-0B1F33?style=flat-square)
+![Tailscale](https://img.shields.io/badge/Tailscale-0B1F33?style=flat-square&logo=tailscale&logoColor=FFFFFF)
+![OpenVPN](https://img.shields.io/badge/OpenVPN-0B1F33?style=flat-square&logo=openvpn&logoColor=EA7E20)
+![Nginx](https://img.shields.io/badge/Nginx-0B1F33?style=flat-square&logo=nginx&logoColor=009639)
+![HAProxy](https://img.shields.io/badge/HAProxy-0B1F33?style=flat-square&logo=haproxy&logoColor=106DAA)
 ![Git](https://img.shields.io/badge/Git-0B1F33?style=flat-square&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-0B1F33?style=flat-square&logo=github&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-0B1F33?style=flat-square&logo=github&logoColor=FFFFFF)
 
 **DevOps & Observability**
 
@@ -215,10 +223,18 @@ Orientado a la excelencia técnica, la innovación y la arquitectura escalable, 
 
 **Redes y herramientas**
 
+**Networking & Tools**
+
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-0B1F33?style=flat-square&logo=cloudflare&logoColor=F38020)
 ![WireGuard](https://img.shields.io/badge/WireGuard-0B1F33?style=flat-square&logo=wireguard&logoColor=88171A)
+![BGP](https://img.shields.io/badge/BGP-0B1F33?style=flat-square&logo=linux&logoColor=FCC624)
+![IPv4%20%2F%20IPv6](https://img.shields.io/badge/IPv4%20%2F%20IPv6-0B1F33?style=flat-square)
+![Tailscale](https://img.shields.io/badge/Tailscale-0B1F33?style=flat-square&logo=tailscale&logoColor=FFFFFF)
+![OpenVPN](https://img.shields.io/badge/OpenVPN-0B1F33?style=flat-square&logo=openvpn&logoColor=EA7E20)
+![Nginx](https://img.shields.io/badge/Nginx-0B1F33?style=flat-square&logo=nginx&logoColor=009639)
+![HAProxy](https://img.shields.io/badge/HAProxy-0B1F33?style=flat-square&logo=haproxy&logoColor=106DAA)
 ![Git](https://img.shields.io/badge/Git-0B1F33?style=flat-square&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-0B1F33?style=flat-square&logo=github&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-0B1F33?style=flat-square&logo=github&logoColor=FFFFFF)
 
 **DevOps y Observabilidad**
 
