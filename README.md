@@ -52,20 +52,45 @@ keep architectures understandable, and make technology useful at scale.
 ![TypeScript](https://img.shields.io/badge/TypeScript-0B1F33?style=flat-square&logo=typescript&logoColor=3178C6)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0B1F33?style=flat-square&logo=javascript&logoColor=F7DF1E)
 ![Python](https://img.shields.io/badge/Python-0B1F33?style=flat-square&logo=python&logoColor=3776AB)
-![Rust](https://img.shields.io/badge/Rust-0B1F33?style=flat-square&logo=rust&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-0B1F33?style=flat-square&logo=rust&logoColor=FFFFFF)
 ![Go](https://img.shields.io/badge/Go-0B1F33?style=flat-square&logo=go&logoColor=00ADD8)
 ![Ruby](https://img.shields.io/badge/Ruby-0B1F33?style=flat-square&logo=ruby&logoColor=CC342D)
 ![PHP](https://img.shields.io/badge/PHP-0B1F33?style=flat-square&logo=php&logoColor=777BB4)
+![Java](https://img.shields.io/badge/Java-0B1F33?style=flat-square&logo=openjdk&logoColor=FFFFFF)
+![C](https://img.shields.io/badge/C-0B1F33?style=flat-square&logo=c&logoColor=A8B9CC)
+![C++](https://img.shields.io/badge/C%2B%2B-0B1F33?style=flat-square&logo=cplusplus&logoColor=00599C)
+![C#](https://img.shields.io/badge/C%23-0B1F33?style=flat-square&logo=csharp&logoColor=512BD4)
+![Kotlin](https://img.shields.io/badge/Kotlin-0B1F33?style=flat-square&logo=kotlin&logoColor=7F52FF)
+![Dart](https://img.shields.io/badge/Dart-0B1F33?style=flat-square&logo=dart&logoColor=0175C2)
+![Lua](https://img.shields.io/badge/Lua-0B1F33?style=flat-square&logo=lua&logoColor=2C2D72)
+![Perl](https://img.shields.io/badge/Perl-0B1F33?style=flat-square&logo=perl&logoColor=39457E)
+![PowerShell](https://img.shields.io/badge/PowerShell-0B1F33?style=flat-square&logo=powershell&logoColor=5391FE)
+![Zig](https://img.shields.io/badge/Zig-0B1F33?style=flat-square&logo=zig&logoColor=F7A41D)
+![Bash](https://img.shields.io/badge/Bash-0B1F33?style=flat-square&logo=gnubash&logoColor=4EAA25)
+
+**Runtimes & JavaScript tooling**
+
 ![Node.js](https://img.shields.io/badge/Node.js-0B1F33?style=flat-square&logo=nodedotjs&logoColor=5FA04E)
-![React](https://img.shields.io/badge/React-0B1F33?style=flat-square&logo=react&logoColor=61DAFB)
-![Bash](https://img.shields.io/badge/Bash-0B1F33?style=flat-square&logo=gnubash&logoColor=white)
+![Bun](https://img.shields.io/badge/Bun-0B1F33?style=flat-square&logo=bun&logoColor=FFFFFF)
+![Vite](https://img.shields.io/badge/Vite-0B1F33?style=flat-square&logo=vite&logoColor=646CFF)
 
 **Systems & infrastructure**
 
 ![Linux](https://img.shields.io/badge/Linux-0B1F33?style=flat-square&logo=linux&logoColor=FCC624)
+![Debian](https://img.shields.io/badge/Debian-0B1F33?style=flat-square&logo=debian&logoColor=A81D33)
+![Red Hat Enterprise Linux](https://img.shields.io/badge/Red%20Hat%20Enterprise%20Linux-0B1F33?style=flat-square&logo=redhat&logoColor=EE0000)
 ![Docker](https://img.shields.io/badge/Docker-0B1F33?style=flat-square&logo=docker&logoColor=2496ED)
 ![Podman](https://img.shields.io/badge/Podman-0B1F33?style=flat-square&logo=podman&logoColor=892CA0)
 ![Proxmox](https://img.shields.io/badge/Proxmox-0B1F33?style=flat-square&logo=proxmox&logoColor=E57000)
+
+**Frontend frameworks & UI**
+
+![React](https://img.shields.io/badge/React-0B1F33?style=flat-square&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-0B1F33?style=flat-square&logo=angular&logoColor=DD0031)
+![Vue.js](https://img.shields.io/badge/Vue.js-0B1F33?style=flat-square&logo=vuedotjs&logoColor=4FC08D)
+![Astro](https://img.shields.io/badge/Astro-0B1F33?style=flat-square&logo=astro&logoColor=FF5D01)
+![Next.js](https://img.shields.io/badge/Next.js-0B1F33?style=flat-square&logo=nextdotjs&logoColor=FFFFFF)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-0B1F33?style=flat-square&logo=tailwindcss&logoColor=06B6D4)
 
 **Databases & data**
 
@@ -138,17 +163,43 @@ soluciones útiles y escalables.
 ![TypeScript](https://img.shields.io/badge/TypeScript-0B1F33?style=flat-square&logo=typescript&logoColor=3178C6)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0B1F33?style=flat-square&logo=javascript&logoColor=F7DF1E)
 ![Python](https://img.shields.io/badge/Python-0B1F33?style=flat-square&logo=python&logoColor=3776AB)
-![Rust](https://img.shields.io/badge/Rust-0B1F33?style=flat-square&logo=rust&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-0B1F33?style=flat-square&logo=rust&logoColor=FFFFFF)
 ![Go](https://img.shields.io/badge/Go-0B1F33?style=flat-square&logo=go&logoColor=00ADD8)
 ![Ruby](https://img.shields.io/badge/Ruby-0B1F33?style=flat-square&logo=ruby&logoColor=CC342D)
 ![PHP](https://img.shields.io/badge/PHP-0B1F33?style=flat-square&logo=php&logoColor=777BB4)
+![Java](https://img.shields.io/badge/Java-0B1F33?style=flat-square&logo=openjdk&logoColor=FFFFFF)
+![C](https://img.shields.io/badge/C-0B1F33?style=flat-square&logo=c&logoColor=A8B9CC)
+![C++](https://img.shields.io/badge/C%2B%2B-0B1F33?style=flat-square&logo=cplusplus&logoColor=00599C)
+![C#](https://img.shields.io/badge/C%23-0B1F33?style=flat-square&logo=csharp&logoColor=512BD4)
+![Kotlin](https://img.shields.io/badge/Kotlin-0B1F33?style=flat-square&logo=kotlin&logoColor=7F52FF)
+![Dart](https://img.shields.io/badge/Dart-0B1F33?style=flat-square&logo=dart&logoColor=0175C2)
+![Lua](https://img.shields.io/badge/Lua-0B1F33?style=flat-square&logo=lua&logoColor=2C2D72)
+![Perl](https://img.shields.io/badge/Perl-0B1F33?style=flat-square&logo=perl&logoColor=39457E)
+![PowerShell](https://img.shields.io/badge/PowerShell-0B1F33?style=flat-square&logo=powershell&logoColor=5391FE)
+![Zig](https://img.shields.io/badge/Zig-0B1F33?style=flat-square&logo=zig&logoColor=F7A41D)
+![Bash](https://img.shields.io/badge/Bash-0B1F33?style=flat-square&logo=gnubash&logoColor=4EAA25)
+
+**Runtimes y herramientas JavaScript**
+
 ![Node.js](https://img.shields.io/badge/Node.js-0B1F33?style=flat-square&logo=nodedotjs&logoColor=5FA04E)
+![Bun](https://img.shields.io/badge/Bun-0B1F33?style=flat-square&logo=bun&logoColor=FFFFFF)
+![Vite](https://img.shields.io/badge/Vite-0B1F33?style=flat-square&logo=vite&logoColor=646CFF)
+
+**Frameworks frontend e interfaces**
+
 ![React](https://img.shields.io/badge/React-0B1F33?style=flat-square&logo=react&logoColor=61DAFB)
-![Bash](https://img.shields.io/badge/Bash-0B1F33?style=flat-square&logo=gnubash&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-0B1F33?style=flat-square&logo=angular&logoColor=DD0031)
+![Vue.js](https://img.shields.io/badge/Vue.js-0B1F33?style=flat-square&logo=vuedotjs&logoColor=4FC08D)
+![Astro](https://img.shields.io/badge/Astro-0B1F33?style=flat-square&logo=astro&logoColor=FF5D01)
+![Next.js](https://img.shields.io/badge/Next.js-0B1F33?style=flat-square&logo=nextdotjs&logoColor=FFFFFF)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-0B1F33?style=flat-square&logo=tailwindcss&logoColor=06B6D4)
+![Material UI](https://img.shields.io/badge/Material%20UI-0B1F33?style=flat-square&logo=mui&logoColor=007FFF)
 
 **Sistemas e infraestructura**
 
 ![Linux](https://img.shields.io/badge/Linux-0B1F33?style=flat-square&logo=linux&logoColor=FCC624)
+![Debian](https://img.shields.io/badge/Debian-0B1F33?style=flat-square&logo=debian&logoColor=A81D33)
+![Red Hat Enterprise Linux](https://img.shields.io/badge/Red%20Hat%20Enterprise%20Linux-0B1F33?style=flat-square&logo=redhat&logoColor=EE0000)
 ![Docker](https://img.shields.io/badge/Docker-0B1F33?style=flat-square&logo=docker&logoColor=2496ED)
 ![Podman](https://img.shields.io/badge/Podman-0B1F33?style=flat-square&logo=podman&logoColor=892CA0)
 ![Proxmox](https://img.shields.io/badge/Proxmox-0B1F33?style=flat-square&logo=proxmox&logoColor=E57000)
