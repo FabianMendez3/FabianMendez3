@@ -96,8 +96,6 @@ Driven by engineering excellence, technical innovation, and scalable architectur
 ![Redis](https://img.shields.io/badge/Redis-0B1F33?style=flat-square&logo=redis&logoColor=FF4438)
 ![MongoDB](https://img.shields.io/badge/MongoDB-0B1F33?style=flat-square&logo=mongodb&logoColor=47A248)
 
-**Networking & tools**
-
 **Networking & Tools**
 
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-0B1F33?style=flat-square&logo=cloudflare&logoColor=F38020)
@@ -222,8 +220,6 @@ Orientado a la excelencia técnica, la innovación y la arquitectura escalable, 
 ![MongoDB](https://img.shields.io/badge/MongoDB-0B1F33?style=flat-square&logo=mongodb&logoColor=47A248)
 
 **Redes y herramientas**
-
-**Networking & Tools**
 
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-0B1F33?style=flat-square&logo=cloudflare&logoColor=F38020)
 ![WireGuard](https://img.shields.io/badge/WireGuard-0B1F33?style=flat-square&logo=wireguard&logoColor=88171A)
