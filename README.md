@@ -51,6 +51,11 @@ keep architectures understandable, and make technology useful at scale.
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-0B1F33?style=flat-square&logo=typescript&logoColor=3178C6)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0B1F33?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![Python](https://img.shields.io/badge/Python-0B1F33?style=flat-square&logo=python&logoColor=3776AB)
+![Rust](https://img.shields.io/badge/Rust-0B1F33?style=flat-square&logo=rust&logoColor=white)
+![Go](https://img.shields.io/badge/Go-0B1F33?style=flat-square&logo=go&logoColor=00ADD8)
+![Ruby](https://img.shields.io/badge/Ruby-0B1F33?style=flat-square&logo=ruby&logoColor=CC342D)
+![PHP](https://img.shields.io/badge/PHP-0B1F33?style=flat-square&logo=php&logoColor=777BB4)
 ![Node.js](https://img.shields.io/badge/Node.js-0B1F33?style=flat-square&logo=nodedotjs&logoColor=5FA04E)
 ![React](https://img.shields.io/badge/React-0B1F33?style=flat-square&logo=react&logoColor=61DAFB)
 ![Bash](https://img.shields.io/badge/Bash-0B1F33?style=flat-square&logo=gnubash&logoColor=white)
