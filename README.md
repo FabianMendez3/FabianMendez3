@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/fabian-mendez-banner.svg" alt="Fabian Mendez — Software, Systems & Network Engineering" width="100%" />
+<img src="./fabian-mendez-banner.svg" alt="Fabian Mendez — Software, Systems & Network Engineering" width="100%" />
 
 <br />
 
