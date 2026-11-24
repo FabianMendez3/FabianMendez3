@@ -26,15 +26,11 @@ views](https://komarev.com/ghpvc/?username=FabianMendez3&style=for-the-badge&col
 
 ### About me
 
-I'm a software and systems engineer focused on the intersection of
-**application development, infrastructure, and networking**.
+I'm a Systems Engineer specializing in Software Engineering, Network Engineering, and IT Infrastructure.
 
-I enjoy understanding technology end to end: from designing backend
-services and APIs to deploying Linux environments, automating
-operations, and working with network architecture.
+My focus is on designing, developing, and managing technology solutions across software systems, network architectures, and infrastructure environments.
 
-My approach is practical and engineering-driven: build reliable systems,
-keep architectures understandable, and make technology useful at scale.
+Driven by engineering excellence, technical innovation, and scalable architecture, I aim to build reliable, efficient, and resilient technology solutions.
 
 ### What I work on
 
@@ -146,16 +142,11 @@ keep architectures understandable, and make technology useful at scale.
 
 ### Sobre mí
 
-Soy un ingeniero enfocado en la intersección entre **desarrollo de
-software, infraestructura y redes**.
+Soy Ingeniero en Sistemas, especializado en Ingeniería de Software, Ingeniería de Redes e Infraestructura Tecnológica.
 
-Me interesa comprender la tecnología de extremo a extremo: desde diseñar
-servicios backend y APIs hasta desplegar entornos Linux, automatizar
-operaciones y trabajar con arquitectura de redes.
+Mi enfoque abarca el diseño, desarrollo y administración de soluciones tecnológicas en entornos de software, arquitecturas de red e infraestructura de sistemas.
 
-Mi enfoque es práctico y orientado a la ingeniería: construir sistemas
-confiables, mantener arquitecturas claras y convertir la tecnología en
-soluciones útiles y escalables.
+Orientado a la excelencia técnica, la innovación y la arquitectura escalable, busco construir soluciones tecnológicas confiables, eficientes y resilientes.
 
 ### Áreas de trabajo
 
