@@ -88,6 +88,15 @@ Driven by engineering excellence, technical innovation, and scalable architectur
 ![Next.js](https://img.shields.io/badge/Next.js-0B1F33?style=flat-square&logo=nextdotjs&logoColor=FFFFFF)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-0B1F33?style=flat-square&logo=tailwindcss&logoColor=06B6D4)
 
+**Backend & API Development**
+
+![Node.js](https://img.shields.io/badge/Node.js-0B1F33?style=flat-square&logo=nodedotjs&logoColor=5FA04E)
+![NestJS](https://img.shields.io/badge/NestJS-0B1F33?style=flat-square&logo=nestjs&logoColor=E0234E)
+![Fastify](https://img.shields.io/badge/Fastify-0B1F33?style=flat-square&logo=fastify&logoColor=FFFFFF)
+![Express](https://img.shields.io/badge/Express-0B1F33?style=flat-square&logo=express&logoColor=FFFFFF)
+![REST API](https://img.shields.io/badge/REST%20API-0B1F33?style=flat-square)
+![GraphQL](https://img.shields.io/badge/GraphQL-0B1F33?style=flat-square&logo=graphql&logoColor=E10098)
+
 **Databases & data**
 
 ![MySQL](https://img.shields.io/badge/MySQL-0B1F33?style=flat-square&logo=mysql&logoColor=4479A1)
@@ -201,6 +210,15 @@ Orientado a la excelencia técnica, la innovación y la arquitectura escalable, 
 ![Next.js](https://img.shields.io/badge/Next.js-0B1F33?style=flat-square&logo=nextdotjs&logoColor=FFFFFF)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-0B1F33?style=flat-square&logo=tailwindcss&logoColor=06B6D4)
 ![Material UI](https://img.shields.io/badge/Material%20UI-0B1F33?style=flat-square&logo=mui&logoColor=007FFF)
+
+**Backend y desarrollo de API**
+
+![Node.js](https://img.shields.io/badge/Node.js-0B1F33?style=flat-square&logo=nodedotjs&logoColor=5FA04E)
+![NestJS](https://img.shields.io/badge/NestJS-0B1F33?style=flat-square&logo=nestjs&logoColor=E0234E)
+![Fastify](https://img.shields.io/badge/Fastify-0B1F33?style=flat-square&logo=fastify&logoColor=FFFFFF)
+![Express](https://img.shields.io/badge/Express-0B1F33?style=flat-square&logo=express&logoColor=FFFFFF)
+![REST API](https://img.shields.io/badge/REST%20API-0B1F33?style=flat-square)
+![GraphQL](https://img.shields.io/badge/GraphQL-0B1F33?style=flat-square&logo=graphql&logoColor=E10098)
 
 **Sistemas e infraestructura**
 
