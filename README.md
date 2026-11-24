@@ -71,6 +71,7 @@ keep architectures understandable, and make technology useful at scale.
 
 ![MySQL](https://img.shields.io/badge/MySQL-0B1F33?style=flat-square&logo=mysql&logoColor=4479A1)
 ![MariaDB](https://img.shields.io/badge/MariaDB-0B1F33?style=flat-square&logo=mariadb&logoColor=C0765A)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0B1F33?style=flat-square&logo=postgresql&logoColor=4169E1)
 ![Redis](https://img.shields.io/badge/Redis-0B1F33?style=flat-square&logo=redis&logoColor=FF4438)
 ![MongoDB](https://img.shields.io/badge/MongoDB-0B1F33?style=flat-square&logo=mongodb&logoColor=47A248)
 
@@ -156,6 +157,7 @@ soluciones útiles y escalables.
 
 ![MySQL](https://img.shields.io/badge/MySQL-0B1F33?style=flat-square&logo=mysql&logoColor=4479A1)
 ![MariaDB](https://img.shields.io/badge/MariaDB-0B1F33?style=flat-square&logo=mariadb&logoColor=C0765A)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0B1F33?style=flat-square&logo=postgresql&logoColor=4169E1)
 ![Redis](https://img.shields.io/badge/Redis-0B1F33?style=flat-square&logo=redis&logoColor=FF4438)
 ![MongoDB](https://img.shields.io/badge/MongoDB-0B1F33?style=flat-square&logo=mongodb&logoColor=47A248)
 
