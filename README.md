@@ -1,9 +1,10 @@
-::: {align="center"}
-`<img src="./assets/fabian-mendez-banner.svg" alt="Fabian Mendez — Software, Systems & Network Engineering" width="100%" />`{=html}
+<div align="center">
 
-`<br />`{=html}
+<img src="./assets/fabian-mendez-banner.svg" alt="Fabian Mendez — Software, Systems & Network Engineering" width="100%" />
 
-# FABIAN MENDEZ
+<br />
+
+# Fabian Mendez
 
 ### Software Engineering · Systems Engineering · Network Engineering
 
@@ -13,14 +14,17 @@
 [![Profile
 views](https://komarev.com/ghpvc/?username=FabianMendez3&style=for-the-badge&color=0878D1&label=PROFILE+VIEWS)](https://github.com/FabianMendez3)
 
-[English](#english) · [Español](#español)
-:::
+[English](#english) · [Español](#espanol)
+
+</div>
 
 ------------------------------------------------------------------------
 
-`<a id="english">`{=html}`</a>`{=html}
+<a id="english"></a>
 
-## EN / About me
+## ENGLISH
+
+### About me
 
 I'm a software and systems engineer focused on the intersection of
 **application development, infrastructure, and networking**.
@@ -34,23 +38,14 @@ keep architectures understandable, and make technology useful at scale.
 
 ### What I work on
 
-  -----------------------------------------------------------------------
-  Domain                              Focus
-  ----------------------------------- -----------------------------------
-  **Software engineering**            Backend development, full-stack
-                                      applications, APIs, automation
+| Domain                       | Focus                                                                       |
+|:-----------------------------|:----------------------------------------------------------------------------|
+| **Software engineering**     | Backend development, full-stack applications, APIs, and automation          |
+| **Systems & infrastructure** | Linux, virtualization, containers, and server operations                    |
+| **Networking**               | TCP/IP, routing concepts, DNS, VPNs, and network reliability                |
+| **Architecture**             | Distributed systems, observability, performance, and security-minded design |
 
-  **Systems & infrastructure**        Linux, virtualization, containers,
-                                      server operations
-
-  **Networking**                      TCP/IP, routing concepts, DNS,
-                                      VPNs, network reliability
-
-  **Architecture**                    Distributed systems, observability,
-                                      performance, security-minded design
-  -----------------------------------------------------------------------
-
-### Technology toolbox
+### Technology stack
 
 **Languages & application development**
 
@@ -67,44 +62,48 @@ keep architectures understandable, and make technology useful at scale.
 ![Podman](https://img.shields.io/badge/Podman-0B1F33?style=flat-square&logo=podman&logoColor=892CA0)
 ![Proxmox](https://img.shields.io/badge/Proxmox-0B1F33?style=flat-square&logo=proxmox&logoColor=E57000)
 
-**Data & messaging**
+**Databases & data**
 
 ![MySQL](https://img.shields.io/badge/MySQL-0B1F33?style=flat-square&logo=mysql&logoColor=4479A1)
 ![MariaDB](https://img.shields.io/badge/MariaDB-0B1F33?style=flat-square&logo=mariadb&logoColor=C0765A)
 ![Redis](https://img.shields.io/badge/Redis-0B1F33?style=flat-square&logo=redis&logoColor=FF4438)
 ![MongoDB](https://img.shields.io/badge/MongoDB-0B1F33?style=flat-square&logo=mongodb&logoColor=47A248)
 
-**Networking & platform tooling**
+**Networking & tools**
 
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-0B1F33?style=flat-square&logo=cloudflare&logoColor=F38020)
 ![WireGuard](https://img.shields.io/badge/WireGuard-0B1F33?style=flat-square&logo=wireguard&logoColor=88171A)
 ![Git](https://img.shields.io/badge/Git-0B1F33?style=flat-square&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/GitHub-0B1F33?style=flat-square&logo=github&logoColor=white)
 
-### Current interests
+### Areas of interest
 
--   Scalable backend services and API design
--   Linux systems engineering and infrastructure automation
--   Network architecture, routing, and secure connectivity
--   Distributed systems, observability, and performance
--   Security-conscious engineering and operational reliability
+- Scalable backend services and API design
+- Linux systems engineering and infrastructure automation
+- Network architecture, routing, and secure connectivity
+- Distributed systems, observability, and performance
+- Security-conscious engineering and operational reliability
 
 ### GitHub activity
 
-::: {align="center"}
-`<img height="165" src="https://github-readme-stats.vercel.app/api?username=FabianMendez3&show_icons=true&hide_border=true&bg_color=0B1220&title_color=42B8FF&text_color=C9D7E8&icon_color=42B8FF&rank_icon=github" alt="GitHub statistics" />`{=html}
-`<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabianMendez3&layout=compact&hide_border=true&bg_color=0B1220&title_color=42B8FF&text_color=C9D7E8&langs_count=6" alt="Most used languages" />`{=html}
+<div align="center">
 
-`<br />`{=html}
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=FabianMendez3&show_icons=true&hide_border=true&bg_color=0B1220&title_color=42B8FF&text_color=C9D7E8&icon_color=42B8FF&rank_icon=github" alt="GitHub statistics" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabianMendez3&layout=compact&hide_border=true&bg_color=0B1220&title_color=42B8FF&text_color=C9D7E8&langs_count=6" alt="Most used languages" />
 
-`<img src="https://streak-stats.demolab.com?user=FabianMendez3&hide_border=true&background=0B1220&ring=42B8FF&fire=42B8FF&currStreakLabel=42B8FF&sideLabels=C9D7E8&dates=8193A8&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub contribution streak" />`{=html}
-:::
+<br />
+
+<img src="https://streak-stats.demolab.com?user=FabianMendez3&hide_border=true&background=0B1220&ring=42B8FF&fire=42B8FF&currStreakLabel=42B8FF&sideLabels=C9D7E8&dates=8193A8&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub contribution streak" />
+
+</div>
 
 ------------------------------------------------------------------------
 
-`<a id="español">`{=html}`</a>`{=html}
+<a id="espanol"></a>
 
-## ES / Sobre mí
+## ESPAÑOL
+
+### Sobre mí
 
 Soy un ingeniero enfocado en la intersección entre **desarrollo de
 software, infraestructura y redes**.
@@ -119,24 +118,14 @@ soluciones útiles y escalables.
 
 ### Áreas de trabajo
 
-  -----------------------------------------------------------------------
-  Área                                Enfoque
-  ----------------------------------- -----------------------------------
-  **Ingeniería de software**          Backend, aplicaciones full stack,
-                                      APIs y automatización
+| Área                           | Enfoque                                                                              |
+|:-------------------------------|:-------------------------------------------------------------------------------------|
+| **Ingeniería de software**     | Backend, aplicaciones full stack, APIs y automatización                              |
+| **Sistemas e infraestructura** | Linux, virtualización, contenedores y operación de servidores                        |
+| **Redes**                      | TCP/IP, conceptos de routing, DNS, VPN y confiabilidad de red                        |
+| **Arquitectura**               | Sistemas distribuidos, observabilidad, rendimiento y diseño con enfoque en seguridad |
 
-  **Sistemas e infraestructura**      Linux, virtualización, contenedores
-                                      y operación de servidores
-
-  **Redes**                           TCP/IP, conceptos de routing, DNS,
-                                      VPN y confiabilidad de red
-
-  **Arquitectura**                    Sistemas distribuidos,
-                                      observabilidad, rendimiento y
-                                      diseño con enfoque en seguridad
-  -----------------------------------------------------------------------
-
-### Tecnologías
+### Stack tecnológico
 
 **Lenguajes y desarrollo**
 
@@ -153,7 +142,7 @@ soluciones útiles y escalables.
 ![Podman](https://img.shields.io/badge/Podman-0B1F33?style=flat-square&logo=podman&logoColor=892CA0)
 ![Proxmox](https://img.shields.io/badge/Proxmox-0B1F33?style=flat-square&logo=proxmox&logoColor=E57000)
 
-**Datos y mensajería**
+**Bases de datos y datos**
 
 ![MySQL](https://img.shields.io/badge/MySQL-0B1F33?style=flat-square&logo=mysql&logoColor=4479A1)
 ![MariaDB](https://img.shields.io/badge/MariaDB-0B1F33?style=flat-square&logo=mariadb&logoColor=C0765A)
@@ -167,22 +156,24 @@ soluciones útiles y escalables.
 ![Git](https://img.shields.io/badge/Git-0B1F33?style=flat-square&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/GitHub-0B1F33?style=flat-square&logo=github&logoColor=white)
 
-### Intereses actuales
+### Intereses
 
--   Servicios backend escalables y diseño de APIs
--   Ingeniería de sistemas Linux y automatización de infraestructura
--   Arquitectura de redes, routing y conectividad segura
--   Sistemas distribuidos, observabilidad y rendimiento
--   Ingeniería orientada a la seguridad y confiabilidad operativa
+- Servicios backend escalables y diseño de APIs
+- Ingeniería de sistemas Linux y automatización de infraestructura
+- Arquitectura de redes, routing y conectividad segura
+- Sistemas distribuidos, observabilidad y rendimiento
+- Ingeniería orientada a la seguridad y confiabilidad operativa
 
 ------------------------------------------------------------------------
 
-::: {align="center"}
+<div align="center">
+
 **Let's build reliable technology. · Construyamos tecnología
 confiable.**
 
 [GitHub · FabianMendez3](https://github.com/FabianMendez3)
 
-`<sub>`{=html}Designed with a systems mindset. · Diseñado con mentalidad
-de ingeniería.`</sub>`{=html}
-:::
+<sub>Designed with a systems mindset. · Diseñado con mentalidad de
+ingeniería.</sub>
+
+</div>
