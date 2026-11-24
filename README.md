@@ -107,6 +107,16 @@ keep architectures understandable, and make technology useful at scale.
 ![Git](https://img.shields.io/badge/Git-0B1F33?style=flat-square&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/GitHub-0B1F33?style=flat-square&logo=github&logoColor=white)
 
+**DevOps & Observability**
+
+![Nginx](https://img.shields.io/badge/Nginx-0B1F33?style=flat-square&logo=nginx&logoColor=009639)
+![HAProxy](https://img.shields.io/badge/HAProxy-0B1F33?style=flat-square&logo=haproxy&logoColor=106DAA)
+![Terraform](https://img.shields.io/badge/Terraform-0B1F33?style=flat-square&logo=terraform&logoColor=844FBA)
+![Ansible](https://img.shields.io/badge/Ansible-0B1F33?style=flat-square&logo=ansible&logoColor=EE0000)
+![Prometheus](https://img.shields.io/badge/Prometheus-0B1F33?style=flat-square&logo=prometheus&logoColor=E6522C)
+![Grafana](https://img.shields.io/badge/Grafana-0B1F33?style=flat-square&logo=grafana&logoColor=F46800)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0B1F33?style=flat-square&logo=githubactions&logoColor=2088FF)
+
 ### Areas of interest
 
 - Scalable backend services and API design
@@ -218,6 +228,16 @@ soluciones útiles y escalables.
 ![WireGuard](https://img.shields.io/badge/WireGuard-0B1F33?style=flat-square&logo=wireguard&logoColor=88171A)
 ![Git](https://img.shields.io/badge/Git-0B1F33?style=flat-square&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/GitHub-0B1F33?style=flat-square&logo=github&logoColor=white)
+
+**DevOps y Observabilidad**
+
+![Nginx](https://img.shields.io/badge/Nginx-0B1F33?style=flat-square&logo=nginx&logoColor=009639)
+![HAProxy](https://img.shields.io/badge/HAProxy-0B1F33?style=flat-square&logo=haproxy&logoColor=106DAA)
+![Terraform](https://img.shields.io/badge/Terraform-0B1F33?style=flat-square&logo=terraform&logoColor=844FBA)
+![Ansible](https://img.shields.io/badge/Ansible-0B1F33?style=flat-square&logo=ansible&logoColor=EE0000)
+![Prometheus](https://img.shields.io/badge/Prometheus-0B1F33?style=flat-square&logo=prometheus&logoColor=E6522C)
+![Grafana](https://img.shields.io/badge/Grafana-0B1F33?style=flat-square&logo=grafana&logoColor=F46800)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0B1F33?style=flat-square&logo=githubactions&logoColor=2088FF)
 
 ### Intereses
 
